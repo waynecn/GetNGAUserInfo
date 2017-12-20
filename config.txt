@@ -1,0 +1,4 @@
+#ngacookie在下面输入你的nga cookie，在浏览器中打开论坛，按F12，在NetWork标签页找到你自己的cooki填写到下面即可
+
+#baseurl
+http://bbs.ngacn.cc/thread.php?fid=-7

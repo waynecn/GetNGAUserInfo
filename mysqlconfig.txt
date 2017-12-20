@@ -1,0 +1,8 @@
+#dbuser在下面输入你的数据库用户名
+pysql
+#dbpwd在下面输入你的数据库密码
+xxxxxx
+#dbhost
+localhost
+#database
+mysql
