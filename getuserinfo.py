@@ -3,10 +3,10 @@
 
 '''
 Created on 20171122
-@author:wyl QQ635864540
+@author:wayne
 python version 2.7
 '''
-__author__ = 'wyl QQ635864540'
+__author__ = 'wayne'
 
 import urllib
 import urllib2
